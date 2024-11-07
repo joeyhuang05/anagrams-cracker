@@ -44,7 +44,7 @@ if __name__ == "__main__":
             print(f"All valid words using '{letters}':")
             for word in answers:
                 print('•', word)
-            print(f"{len(answers)} possible words found")
+            print(f"{len(answers)} possible words found :)")
 
             print(len(validWords))
 
